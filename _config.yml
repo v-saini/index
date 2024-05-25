@@ -15,7 +15,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+#locale                   : "en-US"
 title                    : "VANEET SAINI"
 title_separator          : "-"
 name                     : &name "Vaneet Saini
