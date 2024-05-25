@@ -2,7 +2,7 @@ title: Vaneet Saini
 logo: /assets/pic.png
 #description: text below image
 # show_downloads: true
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 email: vaneetsaini@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Vaneet Saini's Personal Website
