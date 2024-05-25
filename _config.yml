@@ -1,11 +1,3 @@
-# title: Vaneet Saini
-# logo: /assets/pic.png
-# # description:
-# # show_downloads: true
-# remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-# - jekyll-remote-theme
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -16,47 +8,47 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "VANEET SAINI"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Vaneet Saini
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://v-saini.github.io/vsaini/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "v-saini/v-saini.github.io/vsaini/"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/pic.png"
+  avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
-  location         : "Chandigarh, India"
-  employer         : "Panjab University"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "vsaini@pu.ac.in" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=O2nJCz8AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8186-5166"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Vaneet-Saini"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "v-saini"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -78,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/channel/UC6k1epfxt3gPVdQhE8gI1tQ"
+  youtube          : # Username
   zhihu            : # URL
 
 
