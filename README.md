@@ -116,7 +116,7 @@ Vashisht D.; Sharma S.; Kumar R.; **Saini V.**; Saini V.; Ibhadon A.; Sahoo S. C
 
 [[Link](https://doi.org/10.1016/j.microc.2020.104705)]
 
-**Ph.D. and Post-doc Publications**
+**Ph.D. and Post-doc Publications:**
 
 6\. The Development and Mechanistic Investigation of a Palladium-Catalyzed 1,3-Arylfluorination of Chromenes
 
