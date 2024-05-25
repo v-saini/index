@@ -4,12 +4,12 @@ logo: /assets/pic.png
 # show_downloads: true
 theme: minima
 
-email: vaneetsaini@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Vaneet Saini's Personal Website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  v-saini
+# email: vaneetsaini@gmail.com
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Vaneet Saini's Personal Website
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# github_username:  v-saini
 
 plugins:
   # - jekyll-feed
