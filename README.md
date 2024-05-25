@@ -4,10 +4,12 @@ I'm an Assistant Professor in the Department of Chemistry at Panjab University, 
 
 
 **Get In Touch:**
+
 Email: vaneetsaini@gmail.com
 
 
 **Independent Publications:**
+
 Link to [[Google Scholar](https://scholar.google.com/citations?user=O2nJCz8AAAAJ&hl=en)]
 
 20\. A machine learning approach for prediction the reactivity power of hypervalent iodine compounds
